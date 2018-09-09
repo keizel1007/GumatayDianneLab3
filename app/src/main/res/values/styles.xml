@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/DARKGRAYprimaryDarkColor</item>
+        <item name="colorAccent">@color/primaryTextColor</item>
+        <item name="android:colorBackground">@color/secondaryDarkColor</item>
+    </style>
+
+
+    <style name="constraint">
+        <item name="android:background">@color/yellowprimaryDarkColor</item>
+        <item name="android:fontFamily">@font/varela</item>
+    </style>
+
+    <style name="image">
+        <item name="android:shadowColor">@color/secondaryDarkColor</item>
+    </style>
+
+    <style name="description">
+        <item name="android:textColor">@color/secondaryTextColor</item>
+        <item name="android:fontFamily"> @font/mrphone</item>
+    </style>
+
+    <style name="title">
+        <item name="android:fontFamily">@font/ahoy</item>
+        <item name="android:textColor">@color/GRAYprimaryDarkColor</item>
+        <item name="android:textSize">50dp</item>
+    </style>
+
+
+    <style name="button">
+        <item name="android:background">@color/yellowprimaryDarkColor</item>
+        <item name="android:fontFamily">@font/varela</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="primaryColor">#303f9f</color>
+    <color name="primaryLightColor">#666ad1</color>
+    <color name="primaryDarkColor">#001970</color>
+    <color name="secondaryColor">#fffde7</color>
+    <color name="secondaryLightColor">#ffffff</color>
+    <color name="secondaryDarkColor">#cccab5</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+
+
+    <color name="yellowPrimaryColor">#ffe082</color>
+    <color name="yellowprimaryLightColor">#ffffb3</color>
+    <color name="yellowprimaryDarkColor">#caae53</color>
+    <color name="yellowprimaryTextColor">#000000</color>
+
+    <color name="YYprimaryColor">#fbc02d</color>
+    <color name="YYprimaryLightColor">#fff263</color>
+    <color name="YYprimaryDarkColor">#c49000</color>
+    <color name="YYprimaryTextColor">#000000</color>
+
+    <color name="GRAYprimaryColor">#607d8b</color>
+    <color name="GRAYprimaryLightColor">#8eacbb</color>
+    <color name="GRAYprimaryDarkColor">#34515e</color>
+    <color name="GRAYsecondaryColor">#b0bec5</color>
+    <color name="GRAYsecondaryLightColor">#e2f1f8</color>
+    <color name="GRAYsecondaryDarkColor">#808e95</color>
+    <color name="GRAYprimaryTextColor">#000000</color>
+    <color name="GRAYsecondaryTextColor">#000000</color>
+
+    <color name="DARKGRAYprimaryColor">#455a64</color>
+    <color name="DARKGRAYprimaryLightColor">#718792</color>
+    <color name="DARKGRAYprimaryDarkColor">#1c313a</color>
+    <color name="DARKGRAYprimaryTextColor">#ffffff</color>
+</resources>
+
